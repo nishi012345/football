@@ -9,3 +9,8 @@
 -Dead byDaylight
 -Shadowverse
 -overwatch2
+
+## 好きな音楽（彌武）
+- ナミカレ
+- アンダーキッズ
+- Alive
